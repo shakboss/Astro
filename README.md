@@ -86,7 +86,7 @@ You can test it on other OS's like debian.
 1. You can simply run code by using code below 
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Soroushnk/Astro/main/Astro.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/shakboss/Astro/main/Astro.sh)
 ```
 Or :
 
@@ -94,14 +94,14 @@ Or :
 
 a.
 ```bash
-wget https://raw.githubusercontent.com/Soroushnk/Astro/main/Astro.sh
+wget https://raw.githubusercontent.com/shakboss/Astro/main/Astro.sh
 
 ```
  b.
 
 (This will download the hole repository) 
 ```bash
-git clone https://github.com/Soroushnk/Astro.git
+git clone https://github.com/shakboss/Astro.git
 cd Astro
 ```
 2. Then you should make the file runable by using code below
